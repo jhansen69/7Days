@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA;EACC,kBAHkB,EAET","file":"main.css","sourcesContent":["$pretty : '#0F540F';\n\n.myclass {\n\tcolor: $pretty\n}\n"],"sourceRoot":"/source/"}
